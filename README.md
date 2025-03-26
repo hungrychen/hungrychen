@@ -41,4 +41,4 @@ I am an undergraduate computer engineering student at University of California, 
     * January 2023 - June 2023
 
 ## Contact
-* Connect with me on LinkedIn: [@darrenchin25](https://linkedin.com/in/darrenchin25)
+* Connect with me on LinkedIn: [linkedin.com/in/darrenchin25](https://linkedin.com/in/darrenchin25)
