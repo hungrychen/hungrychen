@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Overview
 
-I am an undergraduate computer engineering student at University of California, Los Angeles (UCLA). I do robotics research at  [Structures-Computer Interaction Laboratory](https://structures.computer/) at UCLA. Recently, I have been involved in a project with an aim to develop a method for controling elastic structures.
+I am an undergraduate computer engineering student at University of California, Los Angeles (UCLA). Currently, I am a visiting student at the University of Edinburgh. Previously, I did robotics research at [Structures-Computer Interaction Laboratory](https://structures.computer/) at UCLA.
 
 ## Skills
 * Tools
@@ -36,7 +36,7 @@ I am an undergraduate computer engineering student at University of California, 
 ## Experience
 
 * Researcher, [Structures-Computer Interaction Laboratory](https://structures.computer), Los Angeles, California
-    * October 2023 - Present
+    * October 2023 - August 2025
 * Electronics Co-lead -- Hybrid Rocket, [Rocket Project at UCLA](https://www.rocketproject.seas.ucla.edu/) (Student Group), Los Angeles, California
     * January 2023 - June 2023
 
