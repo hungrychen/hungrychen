@@ -36,12 +36,12 @@ I am an undergraduate computer engineering student at University of California, 
 ## Experience
 
 * [Lawrence Berkeley National Laboratory](https://lbl.gov), Berkeley, California
-    * January 2026 - May 2026: Berkeley Lab Undergraduate Research Intern
+    * January 2026 – May 2026: Berkeley Lab Undergraduate Research Intern
     * June 2026 – Present: Student Assisstant
 * [Structures-Computer Interaction Laboratory](https://structures.computer), Los Angeles, California
-    * October 2023 - August 2025: Researcher
+    * October 2023 – August 2025: Researcher
 * [Rocket Project at UCLA](https://www.rocketproject.seas.ucla.edu/) (Student Group), Los Angeles, California
-    * January 2023 - June 2023: Electronics Co-lead — Hybrid Rocket
+    * January 2023 – June 2023: Electronics Co-lead — Hybrid Rocket
 
 ## Contact
 * Connect with me on LinkedIn: [linkedin.com/in/darrenchin25](https://linkedin.com/in/darrenchin25)
