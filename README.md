@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Overview
 
-I am an undergraduate computer engineering student at University of California, Los Angeles (UCLA). Currently, I am working with the [Hacking Materials Group](https://hackingmaterials.lbl.gov/) at the Berkeley Lab [Energy Technologies and Systems Division](https://ets.lbl.gov/). Previously, I did robotics research at [Structures-Computer Interaction Laboratory](https://structures.computer/) at UCLA.
+I am a recent UCLA Computer Engineering, B.S. graduate. Currently, I am working with the [Hacking Materials Group](https://hackingmaterials.lbl.gov/) at the Berkeley Lab [Energy Technologies and Systems Division](https://ets.lbl.gov/). Previously, I did robotics research at [Structures-Computer Interaction Laboratory](https://structures.computer/) at UCLA.
 
 ## Skills
 * Tools
